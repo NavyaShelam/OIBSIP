@@ -1,6 +1,8 @@
 import java.util.Random;
+import java.io.Serializable;
 
-public class NumberGuessingGame {
+public final class NumberGuessingGame implements Serializable {
+    private static final long serialVersionUID = 1L;
     private int currentNumber;
     private int attemptsTaken;
     private int maxAttempts;
