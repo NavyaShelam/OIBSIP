@@ -312,41 +312,7 @@ It demonstrates practical implementation of:
 
 The application provides an interactive examination experience with automatic time management and detailed result reporting.
 
----
 
-## 11. Demo Video
-
-**Demo Video:**
-*Add your YouTube or LinkedIn demo video link here.*
-
-The demonstration video covers the main application workflow, including login, instructions, examination, timer, question navigation, submission, and result display.
-
----
-
-## 12. Internship Submission
-
-**Organization:** Oasis Infobyte
-**Program:** AICTE Oasis Infobyte Internship Program
-**Domain:** Java Development
-**Task:** Task 4 – Online Examination System
-**Student:** Sadula Siri Chandana
-
----
-
-## 13. GitHub Repository
-
-**GitHub Repository:**
-*Add your GitHub repository link here.*
-
----
-
-## 14. LinkedIn Post
-
-**LinkedIn Project Post:**
-*Add your LinkedIn post link here.*
-
----
-
-## 15. Conclusion
+## 11. Conclusion
 
 The Online Examination System was developed as part of the Oasis Infobyte Java Development Internship. The project provided practical experience in developing a Java desktop application, designing graphical user interfaces, handling user interaction, implementing timers, managing examination data, and calculating results.
